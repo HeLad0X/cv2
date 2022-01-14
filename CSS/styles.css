@@ -1,0 +1,146 @@
+body{
+    text-align: center;
+    font-family:serif;
+    border:0px;
+    color:#40514E;
+}
+
+p{
+    line-height:2;
+}
+
+text{
+    color:#40514E;
+    
+}
+
+
+hr{
+    border:none;
+    border-top:dotted 5px;
+    width:5%;
+    color:#EAF6F6;
+    margin : 100px auto;
+}
+h1{
+    font-size:90px;
+    margin:50px auto 0px auto;
+    color:#66BFBF;
+}
+h2{
+    color:#66BFBF;
+}
+
+h3{
+    color:#11999E;
+}
+
+a{
+    color:#11999E;
+    margin: 20px 30px;
+}
+a:hover{
+    color:#EAF6F6;
+}
+/* Classes */
+.top-container{
+    border:0px;
+    margin:0px;
+    padding-top:100px;
+    background-color:#dce6e7;
+    position: relative;
+}
+
+.middle-container{
+    margin:50px auto;
+}
+.skill-row{
+    width:40%;
+    text-align: left;
+    margin:auto;
+    margin-bottom:100px;
+}
+.skills{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left:150px;
+    top:300px;
+    width:200px;
+}
+
+.top-cloud{
+    width:200px;
+    position:absolute;
+    right:200px;
+    top:50px;
+}
+
+.java-img{
+    float:left;
+    width:15%;
+    margin-right:20px;
+}
+.ds-pic{
+    width:40%;
+    float:right;
+    
+}
+.ds-head{
+    margin-bottom: 0px;
+}
+
+.contact-me{
+    width:40%;
+    margin:auto;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2cb4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2cb4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2cb4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2cb4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2cb4ad);
+    text-decoration: none;
+  }
+
+  .bottom-container{
+      background-color:#66bfbf;
+      padding:50px 0 20px;
+  }
+/* Tags */
+#main-tag{
+    
+    font-family: 'Sacramento', Serif;
+}
+
+#profile-pic{
+    width:250px;
+}
+
